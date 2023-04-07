@@ -73,10 +73,10 @@ let landingPage = document.querySelector(".landing-page");
 
 // Get Array Of Images
 let imagesUrl = [
-  "https://github.com/AzazMohamed/Special-Website/blob/94655112fa81fd3c6d6e43022036ad45ffb977de/images/1.jpg",
-  "https://github.com/AzazMohamed/Special-Website/blob/94655112fa81fd3c6d6e43022036ad45ffb977de/images/2.jpg",
-  "https://github.com/AzazMohamed/Special-Website/blob/94655112fa81fd3c6d6e43022036ad45ffb977de/images/3.jpg",
-  "https://github.com/AzazMohamed/Special-Website/blob/94655112fa81fd3c6d6e43022036ad45ffb977de/images/4.jpg",
+  "./images/1.jpg",
+  "./images/2.jpg",
+  "./images/3.jpg",
+  "./images/4.jpg",
   "./images/5.jpg",
 ];
 
